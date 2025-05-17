@@ -8,7 +8,7 @@ La  version Offline
 
 
 ### Site web officiel du  projet : 
-[Site web officiel du  projet ESSAIE](https://essaie.fr/)
+[ESSAIE](https://essaie.fr/)
 
 Créé par un animateur pour les artistes de l'animation 2d qui en on marre d'avoir mal aux yeux !
 
